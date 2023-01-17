@@ -7,7 +7,6 @@ I`m dyllan-Lee ( korean name : 이석진 )
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyllan-Lee)](https://github.com/dyllan-Lee/github-readme-stats)
 -->
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyllan-Lee&layout=compact)](https://github.com/dyllan-Lee/github-readme-stats)
   
 ---
 
